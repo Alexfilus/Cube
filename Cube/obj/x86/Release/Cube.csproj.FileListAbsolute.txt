@@ -1,0 +1,8 @@
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\bin\Release\Cube.exe
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\bin\Release\Cube.pdb
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Release\Cube.Form1.resources
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Release\Cube.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Release\Cube.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Release\Cube.exe
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Release\Cube.pdb
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\Cube\Cube\obj\x86\Release\Cube.csprojResolveAssemblyReference.cache

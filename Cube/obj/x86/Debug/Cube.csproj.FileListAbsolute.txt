@@ -1,0 +1,7 @@
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Debug\Cube.Form1.resources
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Debug\Cube.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Debug\Cube.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\bin\Debug\Cube.exe
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\bin\Debug\Cube.pdb
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Debug\Cube.exe
+c:\users\александр\documents\visual studio 2010\Projects\Cube\Cube\obj\x86\Debug\Cube.pdb
